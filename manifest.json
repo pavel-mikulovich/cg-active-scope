@@ -1,0 +1,7 @@
+{
+  "name": "CG Active Scope",
+  "version": "1.0",
+  "description": "Finds a scope of selected DOM element.",
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}
